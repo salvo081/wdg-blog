@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.student-prev-container {
+  border: solid 1px grey;
+  width: 200px;
+  margin: 1rem auto;
+}
